@@ -1,42 +1,70 @@
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/my-python-project
+branchName: master
+commitSha: 47e5d558ed92ea992b9c97458c74420e722d28fb
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/bartleby-py
+branchName: master
+commitSha: bb6dbc4f7184db4f94922c04f6fb36bdfce3794e
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/CodeCoach
+branchName: master
+commitSha: 0c8c259ec77db73bb668649e2ba6b5bae41cb793
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/buckets
+branchName: master
+commitSha: 5cf1c624ce29f363bef3b461b4e2188c69ac42ba
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/adopt-a-drain
+branchName: production
+commitSha: c39d24d729965dd5e1e8807ac11fa7bfc2a6ef50
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/test-python-repo
+branchName: another-custom-branch
+commitSha: d00482decf7741ffc919244e2e04524f7ab4e2d1
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/bartleby
+branchName: master
+commitSha: 9d5b601a16a8d129c07439d0214e16900bd48287
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/bloggy
+branchName: master
+commitSha: 5c79f7a8bbd2fc225234515f16d8adaff0706647
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/advent-of-code-2018
+branchName: master
+commitSha: dd9fbf48b38faf71dff2650587fc17e8487b4d35
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/bartleby-rails
+branchName: master
+commitSha: fdd1e28394ec847fc5b04ad72d1ad9dcc1043029
 
 ---
 # ImportedGitRepository
-{}
+repositoryFullName: squidarth/2014grads
+branchName: master
+commitSha: fd4162945d5d3c61bf5aae4f33c2af9b1d34403e
+
+---
+# ImportedGitRepository
+repositoryFullName: squidarth/brigade
+branchName: master
+commitSha: 78e94a8859f6087a3c3103eebe4126352ba3e888

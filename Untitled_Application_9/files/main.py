@@ -18,4 +18,5 @@ def passthrough(block_input, env, context):
     Returns:
       A JSON-serializable, which becomes the input to the next block in the worklet.
     """
+    print(2)
     return block_input
